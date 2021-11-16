@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Proyecto Sprint</string>
+    <string name="text_user_name">User name</string>
+    <string name="hint_user_name">example@domain.com</string>
+    <string name="text_password">Password</string>
+    <string name="text_button">Log in</string>
+
+    <string name="text_regpayment">Payment</string>
+    <string name="text_code">Sales code</string>
+    <string name="text_date">Sales date</string>
+    <string name="text_idseller">Id seller</string>
+    <string name="text_idclient">Id client</string>
+    <string name="text_address">Client address</string>
+    <string name="text_width">Curtain width</string>
+    <string name="text_length">Curtain length</string>
+    <string name="text_price">Curtain price</string>
+
+    <string name="text_payment">Register of Payment</string>
+    <string name="text_codepayment">Sales code</string>
+    <string name="text_datepayment">Sales date</string>
+    <string name="text_amount">Payment amount</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+</resources>
