@@ -22,4 +22,14 @@
         android:name="com.example.proyectosprint.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <activity
+        android:id="@+id/registroVentas"
+        android:name="com.example.proyectosprint.Registro_ventas"
+        android:label="activity_registro_ventas"
+        tools:layout="@layout/activity_registro_ventas" />
+    <activity
+        android:id="@+id/registroAbono"
+        android:name="com.example.proyectosprint.RegistroAbono"
+        android:label="activity_registro_abono"
+        tools:layout="@layout/activity_registro_abono" />
 </navigation>

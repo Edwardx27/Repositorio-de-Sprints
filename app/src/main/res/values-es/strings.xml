@@ -19,4 +19,12 @@
     <string name="text_codepayment">Codigo de venta</string>
     <string name="text_datepayment">Fecha</string>
     <string name="text_amount">Valor abonado</string>
+
+    //strings del toolbar
+    <string name="text_action_search">Buscar</string>
+    <string name="text_action_settings">Configuracion</string>
+    <string name="text_action_logout">Salir</string>
+    <string name="text_action_more">Mas</string>
+
+
 </resources>
